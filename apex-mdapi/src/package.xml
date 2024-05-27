@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>MetadataDataController</members>
-        <members>MetadataDeployController</members>
-        <members>MetadataRetrieveController</members>
         <members>MetadataService</members>
         <members>MetadataServiceExamples</members>
         <members>MetadataServicePatcher</members>
         <members>MetadataServiceTest</members>
-        <members>RemoteSiteHelperController</members>
         <members>RemoteSiteHelperTest</members>
         <name>ApexClass</name>
     </types>
